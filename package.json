@@ -4,7 +4,7 @@
     "description": "",
     "publisher": "yhdesai",
     "repository": "https://github.com/yhdesai/shipr-dev",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.58.0"
     },

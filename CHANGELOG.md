@@ -1,9 +1,1 @@
-# Change Log
-
-All notable changes to the "shipr-dev" extension pack will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+# 19 Feb 2024: Added more extensions
